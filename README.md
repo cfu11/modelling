@@ -4,5 +4,5 @@ Libraries used:
 - NumPy
 - Matplotlib.pyplot
 
-Outcome
+Outcome:
 The script generates a graph showing the evolution of solute concentration across the hydrogel domain.
